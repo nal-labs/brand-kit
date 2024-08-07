@@ -8,4 +8,4 @@ Nal is a secure, low-cost, developer-friendly Ethereum L2 built to bring the nex
 ### Logos
 
 ![Black Logo](logo/nal_logo_black.png)
-![Blue Logo](logo/nal_logo_blue.png)
+![Blue Logo](logo/nal_logo_blue.svg)
